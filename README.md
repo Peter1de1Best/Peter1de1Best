@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peter
+- 👋 Hi, I’m Peter
 - 👀 I’m interested in reading fantasy stories
 - 🌱 I’m currently learning programming languages such as Python and PHP.
 - 💞️ I’m looking to collaborate on (learning to) create the best possible application for the user/ client/ company/ researcher.
